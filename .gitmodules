@@ -31,3 +31,6 @@
 [submodule "Rutgers-Data-Structures-Fall-2012"]
 	path = Rutgers-Data-Structures-Fall-2012
 	url = https://github.com/PLJNS/Rutgers-Data-Structures-Fall-2012.git
+[submodule "Rutgers-University-Papers"]
+	path = Rutgers-University-Papers
+	url = https://github.com/PLJNS/Rutgers-University-Papers.git
