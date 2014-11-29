@@ -34,3 +34,6 @@
 [submodule "Rutgers-University-Papers"]
 	path = Rutgers-University-Papers
 	url = https://github.com/PLJNS/Rutgers-University-Papers.git
+[submodule "Rutgers-University-Presentations"]
+	path = Rutgers-University-Presentations
+	url = https://github.com/PLJNS/Rutgers-University-Presentations.git
