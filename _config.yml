@@ -1,0 +1,30 @@
+# Admin
+
+title:            "Rutgers Projects"
+author:           "PLJNS"
+description:      "SoundSite is a Jekyll boilerplate and CMS for labels and artists to publish their content for free."
+email:            "paulmmj@gmail.com"
+google_analytics: "UA-40086312-1"
+
+url:              #http://pljns.com/SoundSite
+
+releases:         true
+artists:          true
+radio:            true
+blog:             true
+store:            true
+events:           true
+
+primary_color:  "#1D407D"
+primary_hover:  "rgba(29, 64, 125, 0.9)"
+
+# Technical
+
+version:          1.0.0
+markdown:         redcarpet
+redcarpet:
+  extensions:     ["tables"]
+highlighter:         true
+permalink:        pretty
+paginate:         3
+paginate_path:    blog/page:num

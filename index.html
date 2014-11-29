@@ -1,0 +1,30 @@
+---
+layout: default
+title: Home
+---
+
+<div id="main-content">
+
+<div class="row">
+    <div class="panel panel-default">
+      <div class="panel-body text-center">
+      <p class="lead">With the links below, download my source code for any Rutgers class.</p>
+      <p class="lead">Or, get them all by running the following command on your command line:</p>
+      <pre>git clone https://github.com/PLJNS/Rutgers.git</pre>
+      </div>
+    </div>
+    {% for notebook in site.data.notebooks %}
+        <div class="col-md-6">
+            <article class="guide-listing js-guide-listing">
+                <div class="guide-cover js-guide-cover bg-{{ notebook.color }}">
+                  <a href="{{ notebook.link }}">
+                    <div class="icon-container">
+                      <span class="mega-octicon"><i class="fa {{ notebook.icon }} fa-2x"></i></span>
+                    </div>
+                    <h3 class="guide-cover-title js-guide-cover-title">{{ notebook.title }}</h3>
+                  </a>
+                </div>
+            </article>
+        </div>
+    {% endfor %}
+</div> 

@@ -1,0 +1,76 @@
+- title: "Algorithms"
+  color: "navy"
+  icon:  "fa-code-fork"
+  link:  "https://github.com/PLJNS/Rutgers-Algo-Spring-2014/archive/master.zip"
+
+- title: "Calculus II"
+  color: "blue"
+  icon:  "fa-code-fork"
+  link:  "https://github.com/PLJNS/Rutgers-Calc-II-Summer-2012/archive/master.zip"
+
+- title: "Computer Archictecture"
+  color: "aqua"
+  icon:  "fa-code-fork"
+  link:  "https://github.com/PLJNS/Rutgers-Comp-Arch-Spring-2013/archive/master.zip"
+
+- title: "Data Structures"
+  color: "teal"
+  icon:  "fa-code-fork"
+  link:  "https://github.com/PLJNS/Rutgers-Data-Structures-Fall-2012/archive/master.zip"
+
+- title: "Discrete Structures II"
+  color: "olive"
+  icon:  "fa-code-fork"
+  link:  "https://github.com/PLJNS/Rutgers-Discrete-II-Spring-2013/archive/master.zip"
+
+- title: "Databases"
+  color: "green"
+  icon:  "fa-code-fork"
+  link:  "https://github.com/PLJNS/Rutgers-Info-Data-Mgmt-Fall-2013/archive/master.zip"
+
+- title: "Internet Technology"
+  color: "lime"
+  icon:  "fa-code-fork"
+  link:  "https://github.com/PLJNS/Rutgers-Internet-Technology-Summer-2014/archive/master.zip"
+
+- title: "Programming Langauges"
+  color: "yellow"
+  icon:  "fa-code-fork"
+  link:  "https://github.com/PLJNS/Rutgers-Prin-Prog-Fall-2013/archive/master.zip"
+
+- title: "Software Methodology"
+  color: "orange"
+  icon:  "fa-code-fork"
+  link:  "https://github.com/PLJNS/Rutgers-Soft-Meth-Spring-2013/archive/master.zip"
+
+- title: "Systems Programming"
+  color: "red"
+  icon:  "fa-code-fork"
+  link:  "https://github.com/PLJNS/Rutgers-Systems-Programming-Fall-2013/archive/master.zip"
+
+- title: "Notes"
+  color: "maroon"
+  icon:  "fa-code-fork"
+  link:  "https://github.com/PLJNS/Rutgers-University-Notes/archive/master.zip"
+
+- title: "Papers"
+  color: "fuchsia"
+  icon:  "fa-code-fork"
+  link:  "https://github.com/PLJNS/Rutgers-University-Papers/archive/master.zip"
+
+- title: "Presentations"
+  color: "purple"
+  icon:  "fa-code-fork"
+  link:  "https://github.com/PLJNS/Rutgers-University-Presentations/archive/master.zip"
+
+
+
+
+
+
+
+
+
+
+
+
