@@ -1,0 +1,33 @@
+[submodule "Rutgers-University-Notes"]
+	path = Rutgers-University-Notes
+	url = https://github.com/PLJNS/Rutgers-University-Notes.git
+[submodule "Rutgers-Algo-Spring-2014"]
+	path = Rutgers-Algo-Spring-2014
+	url = https://github.com/PLJNS/Rutgers-Algo-Spring-2014.git
+[submodule "Rutgers-Systems-Programming-Fall-2013"]
+	path = Rutgers-Systems-Programming-Fall-2013
+	url = https://github.com/PLJNS/Rutgers-Systems-Programming-Fall-2013.git
+[submodule "Rutgers-Calc-II-Summer-2012"]
+	path = Rutgers-Calc-II-Summer-2012
+	url = https://github.com/PLJNS/Rutgers-Calc-II-Summer-2012.git
+[submodule "Rutgers-Prin-Prog-Fall-2013"]
+	path = Rutgers-Prin-Prog-Fall-2013
+	url = https://github.com/PLJNS/Rutgers-Prin-Prog-Fall-2013.git
+[submodule "Rutgers-Info-Data-Mgmt-Fall-2013"]
+	path = Rutgers-Info-Data-Mgmt-Fall-2013
+	url = https://github.com/PLJNS/Rutgers-Info-Data-Mgmt-Fall-2013.git
+[submodule "Rutgers-Internet-Technology-Summer-2014"]
+	path = Rutgers-Internet-Technology-Summer-2014
+	url = https://github.com/PLJNS/Rutgers-Internet-Technology-Summer-2014.git
+[submodule "Rutgers-Comp-Arch-Spring-2013"]
+	path = Rutgers-Comp-Arch-Spring-2013
+	url = https://github.com/PLJNS/Rutgers-Comp-Arch-Spring-2013.git
+[submodule "Rutgers-Soft-Meth-Spring-2013"]
+	path = Rutgers-Soft-Meth-Spring-2013
+	url = https://github.com/PLJNS/Rutgers-Soft-Meth-Spring-2013.git
+[submodule "Rutgers-Discrete-II-Spring-2013"]
+	path = Rutgers-Discrete-II-Spring-2013
+	url = https://github.com/PLJNS/Rutgers-Discrete-II-Spring-2013.git
+[submodule "Rutgers-Data-Structures-Fall-2012"]
+	path = Rutgers-Data-Structures-Fall-2012
+	url = https://github.com/PLJNS/Rutgers-Data-Structures-Fall-2012.git
