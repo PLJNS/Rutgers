@@ -115,6 +115,11 @@ body {
   color: #fff;
 }
 
+.panel
+{
+  margin: 0px 15px 30px 15px;
+}
+
 .guide-cover a:hover {
   color: white;
 }
